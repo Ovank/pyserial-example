@@ -60,6 +60,6 @@ You can start the program by using following command.
 ```
 
 ## Script Run Result.
-![Script Run](./asset/output.mp4)
+![Script Run](./asset/output.gif)
 
 
